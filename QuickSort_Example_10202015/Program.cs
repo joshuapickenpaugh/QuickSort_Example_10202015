@@ -1,6 +1,6 @@
 ﻿//Joshua Pickenpaugh, IN2017
 //October 20th, 2015
-//Quick sort example
+//Quick sort example (taken from Word document, slightly modified for my use)
 
 using System;
 using System.Collections.Generic;
